@@ -1,0 +1,6 @@
+name: AClear
+main: AClear\Main
+version: 1.11.1
+api: 3.8.6
+author: Willis(Гаджиев Гаджи)
+load: POSTWORLD
